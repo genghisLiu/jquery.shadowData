@@ -1,0 +1,27 @@
+{
+  "name": "jquery.shadowData",
+  "version": "0.0.0",
+  "authors": [
+    "Genghis Liu <genghis.liu@ef.com>"
+  ],
+  "description": "data read and write proxy implementation for page rendering",
+  "main": "src/jquery.shadowData",
+  "keywords": [
+    "jquery",
+    "proxy",
+    "shadow",
+    "render"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "1.11.1",
+    "lodash": "~2.4.1"
+  }
+}
